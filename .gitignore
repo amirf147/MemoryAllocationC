@@ -37,6 +37,7 @@
 *.hex
 /malloc
 /array_ptrs
+/struct_to_func
 
 # Debug files
 *.dSYM/
